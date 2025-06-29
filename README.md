@@ -1,4 +1,4 @@
-# Structural Analysis of a Residential Building using STAAD.Pro
+# Structural Analysis using STAAD.Pro
 
 ## Overview
 Performed structural analysis and design of a multi-story residential building using STAAD.Pro.
